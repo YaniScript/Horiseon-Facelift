@@ -1,14 +1,12 @@
 # Horiseon-Facelift
 
-Welcome to my first project entitled "On The Horiseon: Branding Your Business". The unique name I gave my site is
-  "On the Horiseon: Brand Your Business." My repository that I created for this project is entited "Horiseon-Facelift".
+Welcome to my first project! The unique name I gave my site is "On the Horiseon: Brand Your Business." My repository that I created for this project is entited "Horiseon-Facelift".
 
 In full transparency, I was so lost trying to unpack this project in its original HTML and CSS file versions. The original files were
 so non-descript and hard to decipher the unique elements. If the original HTML had a voice, it would be monotone and without inflection.
 Not to mention, the class and IDs were tricky to follow in the CSS and see which elements were impacted.
   
-  Every time that I made a change in the HTML or CSS, it impacted something else and I found myself stuggling to find the "root" within 
-  the <div> soup, and it was hard to track the CSS elements with the way everything was displayed in the CSS. 
+ Every time that I made a change in the HTML or CSS, it impacted something else and I found myself stuggling to find the "root" within the <div> soup, and it was hard to track the CSS elements with the way everything was displayed in the CSS. 
   
 And because I am a complete newbie to this whole thing, I decided to just rebuild the entire website. I rebuilt the entire HTML and
 created, then linked it with an entirely new CSS file. (Go, Yani!!!) Once I was done, I used the nomenclature that I saw in the
